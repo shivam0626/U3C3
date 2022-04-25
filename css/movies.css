@@ -1,0 +1,9 @@
+#navbar{
+    display: flex;
+    gap: 80%;
+}
+#search{
+    margin-left: 400px;
+    padding: 10px 160px 10px 2px;
+
+}

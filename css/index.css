@@ -1,0 +1,15 @@
+#navbar{
+    display: flex;
+    gap: 70%;
+}
+#add-money{
+    width: 40%;
+    display: grid;
+    margin-left: 300px;
+    gap: 50px;
+}
+#add_to_wallet,
+#book_movies{
+    width: 30%;
+    margin-left: 30%;
+}
